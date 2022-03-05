@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
       <div className="flex flex-col h-screen justify-center items-center main-container">
         <CustomerReviewCard />
-        <div class="attribution">
+        <div className="attribution">
           Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
           Coded by <a href="https://www.frontendmentor.io/profile/duongbkak55">duongbkak55-Nguyễn Văn Dương</a>.
         </div>
