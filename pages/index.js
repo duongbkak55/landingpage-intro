@@ -14,7 +14,7 @@ export default function Home() {
       <div className="flex flex-col h-screen justify-center items-center main-container">
         <CustomerReviewCard />
         <div className="attribution">
-          Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+          Challenge by <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>.
           Coded by <a href="https://www.frontendmentor.io/profile/duongbkak55">duongbkak55-Nguyễn Văn Dương</a>.
         </div>
       </div>
